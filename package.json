@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production --output ./main.js"
+    "build": "webpack --mode production --output ./docs/main.js"
   },
   "author": "dylanOshima",
   "license": "ISC",
